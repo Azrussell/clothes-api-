@@ -1,5 +1,4 @@
-{
-    "clothes": [
+[
       {
         "id": 1,
         "type": "t-shirt",
@@ -25,6 +24,5 @@
         "type": "jacket",
         "color": "green"
       }
-    ]
-  }
+]
   

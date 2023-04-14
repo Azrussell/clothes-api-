@@ -11,6 +11,9 @@ var shoesRouter = require('./routes/shoes');
 
 var app = express();
 
+//set the port to 3000. the number is arbitrary
+const port=3000
+
 app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
@@ -22,5 +25,13 @@ app.use('/users', usersRouter);
 app.use('/coats', coatsRouter);
 app.use('/shoes', shoesRouter);
 app.use('/clothes', clothesRouter);
+
+//add checking for 404
+app.get('*',(req,res)=>{
+    res.send(`404: Nothing here!`);
+});
+
+//need to start the server
+app.listen(port,()=>console.log(`running at: ${port}`));
 
 module.exports = app;
