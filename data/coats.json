@@ -1,5 +1,4 @@
-{
-    "coats": [
+[
       {
         "id": 1,
         "type": "overcoat",
@@ -26,5 +25,5 @@
         "color": "silver"
       }
     ]
-  }
+
   

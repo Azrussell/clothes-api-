@@ -1,5 +1,4 @@
-{
-    "shoes": [
+[
       {
         "id": 1,
         "type": "sneakers",
@@ -25,6 +24,6 @@
         "type": "loafers",
         "color": "navy"
       }
-    ]
-  }
+]
+
   
