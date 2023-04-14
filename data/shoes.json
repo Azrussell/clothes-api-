@@ -1,0 +1,30 @@
+{
+    "shoes": [
+      {
+        "id": 1,
+        "type": "sneakers",
+        "color": "white"
+      },
+      {
+        "id": 2,
+        "type": "boots",
+        "color": "brown"
+      },
+      {
+        "id": 3,
+        "type": "heels",
+        "color": "black"
+      },
+      {
+        "id": 4,
+        "type": "sandals",
+        "color": "beige"
+      },
+      {
+        "id": 5,
+        "type": "loafers",
+        "color": "navy"
+      }
+    ]
+  }
+  

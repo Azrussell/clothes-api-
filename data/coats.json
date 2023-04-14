@@ -1,0 +1,30 @@
+{
+    "coats": [
+      {
+        "id": 1,
+        "type": "overcoat",
+        "color": "navy"
+      },
+      {
+        "id": 2,
+        "type": "parka",
+        "color": "olive"
+      },
+      {
+        "id": 3,
+        "type": "peacoat",
+        "color": "black"
+      },
+      {
+        "id": 4,
+        "type": "trench coat",
+        "color": "khaki"
+      },
+      {
+        "id": 5,
+        "type": "puffer coat",
+        "color": "silver"
+      }
+    ]
+  }
+  

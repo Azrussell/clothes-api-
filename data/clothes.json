@@ -1,0 +1,30 @@
+{
+    "clothes": [
+      {
+        "id": 1,
+        "type": "t-shirt",
+        "color": "blue"
+      },
+      {
+        "id": 2,
+        "type": "jeans",
+        "color": "black"
+      },
+      {
+        "id": 3,
+        "type": "sweater",
+        "color": "gray"
+      },
+      {
+        "id": 4,
+        "type": "dress",
+        "color": "red"
+      },
+      {
+        "id": 5,
+        "type": "jacket",
+        "color": "green"
+      }
+    ]
+  }
+  
